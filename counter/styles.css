@@ -1,0 +1,10 @@
+#countLabel {
+  display: block;
+  text-align: center;
+  font-size: 10em;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#btncontainer {
+  text-align: center;
+}
